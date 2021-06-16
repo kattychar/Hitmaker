@@ -1,5 +1,3 @@
-import './keys.js';
-
 const keys = document.querySelectorAll('.key');
 const nowplaying = document.querySelector('.nowplaying');
 const hints = document.querySelectorAll('.hints');
